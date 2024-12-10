@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "silviu-oprea.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "local"],
     defaultDateType: "created",
     generateSocialImages: false,
