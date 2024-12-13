@@ -116,5 +116,6 @@ Computer vision:
 This list does not include conference presentations of my papers.
 
 2023 and 2024:
-- Talk about my work on sarcasm detection and understanding at Oakland University, MI, USA (online).
-- Talk about my work on sarcasm detection and understanding at the Technical University of Cluj-Napoca, Romania (online).
+- Talk entitled "Socio-demographic considerations in natural language processing: case studies from investigating sarcasm​", at Sabancı University, Türkiye (online).
+- Talk about my work on sarcasm detection and understanding, at Oakland University, MI, USA (online).
+- Talk about my work on sarcasm detection and understanding, at the Technical University of Cluj-Napoca, Romania (online).
