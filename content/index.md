@@ -1,31 +1,34 @@
 ---
 title: Silviu Vlad Oprea
 ---
-> **Principal Engineer** at **Samsung R&D Institute (UK)** <br/>
-> PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/))
+Hi <u>friends</u>, I'm Silviu!
+- Catholic, husband, and computer scientist;
+- PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/));
+- Interested in Theology, Philosophy, an Artificial Intelligence.
 
 [Google Scholar](https://scholar.google.com/citations?user=IOVYUDwAAAAJ)
 [Semantic Scholar](https://www.semanticscholar.org/author/2066295029)
 [ORCiD](https://orcid.org/0009-0006-7038-5489)
 [Web of Science](https://www.webofscience.com/wos/author/record/JJE-8903-2023)
 
-![[silviu.jpeg|150]]
+<img src="resources/silviu.jpeg" align="left" width=150 style="padding-right: 20px; margin: 0"/>
 
-My recent work has focused on the safety of AI agents.
+My recent work has focused on the **safety of AI agents**.
 For instance, in a recent [paper](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024), we introduce a parameter-efficient guardrailing method for large language models.
 I am also interested in how safety standards are influenced by socio-demographic factors.
 
-Further interests include training AI agents, particularly in a way that maximises multilingual performance and avoids memorising harmful biases; and evaluating them, particularly on tasks where the correct output is a function of socio-demographic factors (such a task is commomnsense inference).
+Further interests in this direction include **training AI agents**, particularly in a way that maximises **multilingual performance** and avoids memorising **harmful biases**; and evaluating them, particularly on tasks where the correct output is a function of **socio-demographic factors** (such a task is commomnsense inference).
 
 ---
 ## News
+<!--**2 January 2025**: Goodbye Samsung R&D Institute (UK). It had a lot of fun as a Principal Engineer. I am now an entrepreneur.-->
 - **20 September 2024**: Our paper, [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://aclanthology.org/2024.emnlp-main.656/), was accepted at EMNLP 2024. We introduce a parameter-efficient method for LLM guardrailing. It outperforms existing approaches with 100-1000x lower parameter overhead, bringing us closer to on-device content moderation.
 - **20 May 2024**: Excited to announce that I've joined Samsung R&D Institute (UK) as a Principal Engineer 🚀. Thanks to everyone at Amazon for the last two years.
 - **3 March 2023**: I passed my PhD viva with no reviewable corrections 🥳! Thanks be to God 🙏🏻; to my supervisors [Walid Magdy](https://homepages.inf.ed.ac.uk/wmagdy/), [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), and [Maria Wolters](https://mariawolters.net/); and to my examiners [Alexandra Birch-Mayne](https://sites.google.com/view/alexandra-birch/) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/). Check out my thesis, [Computational Sarcasm Detection and Understanding in Online Communication](https://era.ed.ac.uk/handle/1842/40531).
 
 Check out more news [[News|here]].
 ## Work
-* **2024 - present: Principal Research Engineer at Samsung R&D Institute (UK)**<br/>I've recently been working on LLM guardrailing. For instance, check out our paper, [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024)
+* **2024: Principal Research Engineer at Samsung R&D Institute (UK)**<br/>I've recently been working on LLM guardrailing. For instance, check out our paper, [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024)
 * **2022 - 2024: Applied Scientist at Amazon Alexa AI**<br/>I've worked on improving the ability of large language models (LLMs) to generate responses that would provide Alexa customers with a more delightful experience.
 * **2021: Applied Scientist (Intern) at Amazon Alexa AI**
 * **2020: Research Scientist (Intern) at Huawei**<br/>I worked with [Haytham Assem](https://scholar.google.co.uk/citations?user=804VsL8AAAAJ&hl=en) and [Sourav Dutta](https://scholar.google.com/citations?user=9y1l5IoAAAAJ&hl=en) on learning transformations between monolingual word embedding spaces, to enable unsupervised translation and transfer learning to low-resource languages. Check out our [COLING 2022 paper](https://aclanthology.org/2022.coling-1.92/) based on this work.

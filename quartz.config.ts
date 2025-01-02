@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Notes",
+    pageTitle: "☩ AMDG",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "en-GB",
     baseUrl: "silviu-oprea.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "local"],
     defaultDateType: "created",
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Monsterrat",
+        body: "Monsterrat",
         code: "IBM Plex Mono",
       },
       colors: {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Notes</title>
+      <title>☩ AMDG</title>
       <link>https://silviu-oprea.github.io</link>
-      <description>Last 10 notes on 🪴 Notes</description>
+      <description>Last 10 notes on ☩ AMDG</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>News</title>
@@ -15,7 +15,7 @@
     <title>Silviu Vlad Oprea</title>
     <link>https://silviu-oprea.github.io/</link>
     <guid>https://silviu-oprea.github.io/</guid>
-    <description>...</description>
+    <description>Hi friends, I’m Silviu! Catholic, husband, and computer scientist; PhD in Data Science from the University of Edinburgh (SMASH group); Interested in Theology, Philosophy, an Artificial ...</description>
     <pubDate>Fri, 29 Nov 2024 17:24:09 GMT</pubDate>
   </item>
     </channel>
