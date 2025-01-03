@@ -122,3 +122,5 @@ This list does not include conference presentations of my papers.
 - Talk entitled "Socio-demographic considerations in natural language processing: case studies from investigating sarcasm​", at Sabancı University, Türkiye (online).
 - Talk about my work on sarcasm detection and understanding, at Oakland University, MI, USA (online).
 - Talk about my work on sarcasm detection and understanding, at the Technical University of Cluj-Napoca, Romania (online).
+## Contact
+For some reason I'm using iCloud email these days. So, if you wanted to reach out, please do so at `silviu dot o the-funny-at-symbol icloud dot com`.
