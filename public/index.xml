@@ -6,6 +6,12 @@
       <description>Last 10 notes on AMDG</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>1 - Linear Regression</title>
+    <link>https://silviu-oprea.github.io/1---Linear-Regression</link>
+    <guid>https://silviu-oprea.github.io/1---Linear-Regression</guid>
+    <description>Cartoon view of Machine Learning We are going to start off talking about building functions f that input \underline x and output \underline y. Example 1 Say we are building a spam classifier.</description>
+    <pubDate>Sat, 04 Jan 2025 21:15:15 GMT</pubDate>
+  </item><item>
     <title>Meta</title>
     <link>https://silviu-oprea.github.io/Meta</link>
     <guid>https://silviu-oprea.github.io/Meta</guid>
@@ -15,7 +21,7 @@
     <title>0 Index</title>
     <link>https://silviu-oprea.github.io/Machine-Learning/0-Index</link>
     <guid>https://silviu-oprea.github.io/Machine-Learning/0-Index</guid>
-    <description></description>
+    <description>Coming soon ⏳.</description>
     <pubDate>Sat, 04 Jan 2025 18:39:57 GMT</pubDate>
   </item><item>
     <title>0 Index</title>
