@@ -4,7 +4,7 @@ title: Welcome! 👋
 Hi <u>friends</u>, I'm Silviu!<br/>
 
 ✝ Catholic, husband, and computer scientist;<br/>
-🎓 PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/));<br/>
+🎓 PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/)); MSc in Computer Science from the University of Oxford;<br/>
 💻 Worked as a software engineer in start-ups; Applied Scientist for Amazon; Research Scientist for Huawei; and Principal Engineer for Samsung. <br/>
 📚 Interested in Theology and Philosophy; and Artificial Intelligence.
 
