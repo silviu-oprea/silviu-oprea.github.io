@@ -1,3 +1,7 @@
+
+> [!WARNING] Under construction
+> The wording might be rather colloquial.
+
 # Introduction
 We are going to start off talking about building functions $f$ that input $\underline x$ and output $\underline y$.
 
