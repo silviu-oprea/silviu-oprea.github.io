@@ -1,7 +1,13 @@
 ---
 title: Welcome! 👋
 ---
-Hi <u>friends</u>, I'm Silviu!<br/>
+Hi <u>friends</u>, I'm Silviu. [[Contact|Get in touch]]!<br/>
+
+[[#Publications|Publications]] |
+[Google Scholar](https://scholar.google.com/citations?user=IOVYUDwAAAAJ)
+[Semantic Scholar](https://www.semanticscholar.org/author/2066295029)
+[ORCiD](https://orcid.org/0009-0006-7038-5489)
+[Web of Science](https://www.webofscience.com/wos/author/record/JJE-8903-2023)
 
 ✝ Catholic, husband, and computer scientist;<br/>
 🎓 PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/)); MSc in Computer Science from the University of Oxford;<br/>
@@ -10,12 +16,6 @@ Hi <u>friends</u>, I'm Silviu!<br/>
 
 This page tells you what I've been doing.
 Would you like to check out my posts on [[Theology/0 Index|Theology and Philosophy]] (coming soon ⏳)? I am also working on a tutorial on the fundamentals of [[Machine Learning/0 Index|Machine Learning]] which you might find helpful.
-
-Feel free to [[Contact|contact]] me! Also check out: [[#Publications|publications]],
-[Google Scholar](https://scholar.google.com/citations?user=IOVYUDwAAAAJ),
-[Semantic Scholar](https://www.semanticscholar.org/author/2066295029),
-[ORCiD](https://orcid.org/0009-0006-7038-5489),
-or [Web of Science](https://www.webofscience.com/wos/author/record/JJE-8903-2023).
 
 <img src="resources/silviu.jpeg" align="left" width=150 style="padding-right: 20px; margin: 0"/>
 
