@@ -1,0 +1,1 @@
+I am using [Obsidian](http://obsidian.md) to write these notes. I turned them into a static website using [Quartz](https://quartz.jzhao.xyz) (which is a free alternative to [Obsidian Publish](https://obsidian.md/publish)). They are published on [Github Pages](https://pages.github.com), as explained [here](https://quartz.jzhao.xyz/hosting).

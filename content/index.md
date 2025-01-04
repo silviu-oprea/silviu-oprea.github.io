@@ -1,20 +1,26 @@
 ---
-title: Silviu Vlad Oprea
+title: Welcome! 👋
 ---
-Hi <u>friends</u>, I'm Silviu!
-- Catholic, husband, and computer scientist;
-- PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/));
-- Interested in Theology, Philosophy, an Artificial Intelligence.
+Hi <u>friends</u>, I'm Silviu!<br/>
 
-[Google Scholar](https://scholar.google.com/citations?user=IOVYUDwAAAAJ)
-[Semantic Scholar](https://www.semanticscholar.org/author/2066295029)
-[ORCiD](https://orcid.org/0009-0006-7038-5489)
-[Web of Science](https://www.webofscience.com/wos/author/record/JJE-8903-2023)
+✝ Catholic, husband, and computer scientist;<br/>
+🎓 PhD in Data Science from the University of Edinburgh ([SMASH group](https://smash.inf.ed.ac.uk/));<br/>
+💻 Worked as a software engineer in start-ups; Applied Scientist for Amazon; Research Scientist for Huawei; and Principal Engineer for Samsung. <br/>
+📚 Interested in Theology and Philosophy; and Artificial Intelligence.
+
+This page tells you what I've been doing.
+Would you like to check out my posts on [[Theology/0 Index|Theology and Philosophy]] (coming soon ⏳)? I am also working on a tutorial on the fundamentals of [[Machine Learning/0 Index|Machine Learning]] which you might find helpful.
+
+Feel free to [[Contact|contact]] me! Also check out: [[#Publications|publications]],
+[Google Scholar](https://scholar.google.com/citations?user=IOVYUDwAAAAJ),
+[Semantic Scholar](https://www.semanticscholar.org/author/2066295029),
+[ORCiD](https://orcid.org/0009-0006-7038-5489),
+or [Web of Science](https://www.webofscience.com/wos/author/record/JJE-8903-2023).
 
 <img src="resources/silviu.jpeg" align="left" width=150 style="padding-right: 20px; margin: 0"/>
 
-My recent work has focused on the **safety of AI agents**.
-For instance, in a recent [paper](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024), we introduce a parameter-efficient guardrailing method for large language models.
+My recent work has focused on the safety of AI agents.
+For instance, in a recent [paper](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024), we introduce a **parameter-efficient guardrailing method for large language models**.
 I am also interested in how safety standards are influenced by socio-demographic factors.
 
 Further interests in this direction include **training AI agents**, particularly in a way that maximises **multilingual performance** and avoids memorising **harmful biases**; and evaluating them, particularly on tasks where the correct output is a function of **socio-demographic factors** (such a task is commomnsense inference).
@@ -28,7 +34,7 @@ Further interests in this direction include **training AI agents**, particularly
 
 Check out more news [[News|here]].
 ## Work
-* **2024: Principal Research Engineer at Samsung R&D Institute (UK)**<br/>I've recently been working on LLM guardrailing. For instance, check out our paper, [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024)
+* **2024: Principal Engineer at Samsung R&D Institute (UK)**<br/>I've recently been working on LLM guardrailing. For instance, check out our paper, [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024)
 * **2022 - 2024: Applied Scientist at Amazon Alexa AI**<br/>I've worked on improving the ability of large language models (LLMs) to generate responses that would provide Alexa customers with a more delightful experience.
 * **2021: Applied Scientist (Intern) at Amazon Alexa AI**
 * **2020: Research Scientist (Intern) at Huawei**<br/>I worked with [Haytham Assem](https://scholar.google.co.uk/citations?user=804VsL8AAAAJ&hl=en) and [Sourav Dutta](https://scholar.google.com/citations?user=9y1l5IoAAAAJ&hl=en) on learning transformations between monolingual word embedding spaces, to enable unsupervised translation and transfer learning to low-resource languages. Check out our [COLING 2022 paper](https://aclanthology.org/2022.coling-1.92/) based on this work.
@@ -122,5 +128,3 @@ This list does not include conference presentations of my papers.
 - Talk entitled "Socio-demographic considerations in natural language processing: case studies from investigating sarcasm​", at Sabancı University, Türkiye (online).
 - Talk about my work on sarcasm detection and understanding, at Oakland University, MI, USA (online).
 - Talk about my work on sarcasm detection and understanding, at the Technical University of Cluj-Napoca, Romania (online).
-## Contact
-For some reason I'm using iCloud email these days. So, if you wanted to reach out, please do so at `silviu dot o the-funny-at-symbol icloud dot com`.
