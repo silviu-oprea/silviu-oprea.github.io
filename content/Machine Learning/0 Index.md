@@ -5,5 +5,6 @@ I started writing these articles as I went through the excellent [Machine Learni
 If you find this content helpful, or have any constructive feedback, I would highly appreciate [[Contact|letting me know]] 🙂.
 
 - [[1 Linear Regression]]
+- [[2 Generalisation]]
 
 More coming soon ⏳
