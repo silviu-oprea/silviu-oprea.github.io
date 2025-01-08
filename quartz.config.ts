@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      host: 'https://plausible.oprea.cc/js/script.file-downloads.outbound-links.js'
     },
     locale: "en-GB",
     baseUrl: "silviu-oprea.github.io",
