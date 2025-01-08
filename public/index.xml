@@ -9,7 +9,7 @@
     <title>1 Linear Regression</title>
     <link>https://silviu-oprea.github.io/Machine-Learning/1-Linear-Regression</link>
     <guid>https://silviu-oprea.github.io/Machine-Learning/1-Linear-Regression</guid>
-    <description> Under construction The wording might be rather colloquial. Introduction We are going to start off talking about building functions f that input \underline x and output \underline y.</description>
+    <description>Introduction We are going to start off talking about building functions f that input \underline x and output \underline y. Say we are building a spam classifier.</description>
     <pubDate>Sat, 04 Jan 2025 21:56:17 GMT</pubDate>
   </item><item>
     <title>Meta</title>
