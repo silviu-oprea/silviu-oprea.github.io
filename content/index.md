@@ -15,7 +15,7 @@ Hi <u>friends</u>, I'm Silviu. [[Contact|Get in touch]]!<br/>
 📚 Interested in Theology and Philosophy; and Artificial Intelligence.
 
 This page tells you what I've been doing.
-Would you like to check out my posts on [[Theology/0 Index|Theology and Philosophy]] (coming soon ⏳)? I am also working on tutorial on [[Machine Learning/0 Index|Machine Learning and Natural Language Processing]] tutorial you might find helpful.
+Would you like to check out my posts on [[Theology/0 Index|Theology and Philosophy]] (coming soon ⏳)? I am also working on tutorial on [[Machine Learning/0 Index|Machine Learning and Natural Language Processing]] that you might find helpful.
 
 <img src="resources/silviu.jpeg" align="left" width=150 style="padding-right: 20px; margin: 0"/>
 
