@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       host: 'https://plausible.oprea.cc/js/script.file-downloads.outbound-links.js'
     },
     locale: "en-GB",
-    baseUrl: "silviu-oprea.github.io",
+    baseUrl: "oprea.cc",
     ignorePatterns: ["private", "templates", ".obsidian", "local"],
     defaultDateType: "created",
     generateSocialImages: false,

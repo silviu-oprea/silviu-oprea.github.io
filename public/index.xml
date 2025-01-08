@@ -2,55 +2,55 @@
 <rss version="2.0">
     <channel>
       <title>AMDG</title>
-      <link>https://silviu-oprea.github.io</link>
+      <link>https://oprea.cc</link>
       <description>Last 10 notes on AMDG</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>2 Generalisation</title>
-    <link>https://silviu-oprea.github.io/Machine-Learning/2-Generalisation</link>
-    <guid>https://silviu-oprea.github.io/Machine-Learning/2-Generalisation</guid>
+    <link>https://oprea.cc/Machine-Learning/2-Generalisation</link>
+    <guid>https://oprea.cc/Machine-Learning/2-Generalisation</guid>
     <description>We can fit a lot of models. What is a good model? One property that we want a model to have is the ability to generalise. That is, it should achieve low error on unseen data.</description>
     <pubDate>Wed, 08 Jan 2025 16:22:02 GMT</pubDate>
   </item><item>
     <title>1 Linear Regression</title>
-    <link>https://silviu-oprea.github.io/Machine-Learning/1-Linear-Regression</link>
-    <guid>https://silviu-oprea.github.io/Machine-Learning/1-Linear-Regression</guid>
+    <link>https://oprea.cc/Machine-Learning/1-Linear-Regression</link>
+    <guid>https://oprea.cc/Machine-Learning/1-Linear-Regression</guid>
     <description>Introduction We are going to start off talking about building functions f that input \underline x and output \underline y. Say we are building a spam classifier.</description>
     <pubDate>Sat, 04 Jan 2025 21:56:17 GMT</pubDate>
   </item><item>
     <title>Meta</title>
-    <link>https://silviu-oprea.github.io/Meta</link>
-    <guid>https://silviu-oprea.github.io/Meta</guid>
+    <link>https://oprea.cc/Meta</link>
+    <guid>https://oprea.cc/Meta</guid>
     <description>I am using Obsidian to write these notes. I turned them into a static website using Quartz (which is a free alternative to Obsidian Publish). They are published on Github Pages, as explained here.</description>
     <pubDate>Sat, 04 Jan 2025 18:44:41 GMT</pubDate>
   </item><item>
     <title>0 Index</title>
-    <link>https://silviu-oprea.github.io/Machine-Learning/0-Index</link>
-    <guid>https://silviu-oprea.github.io/Machine-Learning/0-Index</guid>
+    <link>https://oprea.cc/Machine-Learning/0-Index</link>
+    <guid>https://oprea.cc/Machine-Learning/0-Index</guid>
     <description>This section contains a series of articles aimed to introduce some fundamental concepts from Machine Learning and Natural Language Processing. I started writing these articles as I went through the excellent Machine Learning and Pattern Recognition course taught at the University of Edinburgh by prof.</description>
     <pubDate>Sat, 04 Jan 2025 18:39:57 GMT</pubDate>
   </item><item>
     <title>0 Index</title>
-    <link>https://silviu-oprea.github.io/Theology/0-Index</link>
-    <guid>https://silviu-oprea.github.io/Theology/0-Index</guid>
+    <link>https://oprea.cc/Theology/0-Index</link>
+    <guid>https://oprea.cc/Theology/0-Index</guid>
     <description>Coming soon ⏳.</description>
     <pubDate>Sat, 04 Jan 2025 18:31:28 GMT</pubDate>
   </item><item>
     <title>Contact</title>
-    <link>https://silviu-oprea.github.io/Contact</link>
-    <guid>https://silviu-oprea.github.io/Contact</guid>
-    <description>silviu at oprea dot cc Oprea (my surname) vs opera (🎶) My surname is Oprea, which is an anagram for opera. When emailing me, make sure “e” comes after “r” 🙂.</description>
+    <link>https://oprea.cc/Contact</link>
+    <guid>https://oprea.cc/Contact</guid>
+    <description>My full name is Silviu Vlad Oprea. Please feel free to reach out at silviu at oprea dot cc Oprea (my surname) vs opera (🎶) My surname is Oprea, which is an anagram for opera.</description>
     <pubDate>Sat, 04 Jan 2025 18:25:41 GMT</pubDate>
   </item><item>
     <title>News</title>
-    <link>https://silviu-oprea.github.io/News</link>
-    <guid>https://silviu-oprea.github.io/News</guid>
+    <link>https://oprea.cc/News</link>
+    <guid>https://oprea.cc/News</guid>
     <description>...</description>
     <pubDate>Thu, 05 Dec 2024 12:56:51 GMT</pubDate>
   </item><item>
     <title>Welcome! 👋</title>
-    <link>https://silviu-oprea.github.io/</link>
-    <guid>https://silviu-oprea.github.io/</guid>
+    <link>https://oprea.cc/</link>
+    <guid>https://oprea.cc/</guid>
     <description>Hi friends, I’m Silviu. Get in touch! Publications | Google Scholar Semantic Scholar ORCiD Web of Science ✝ Catholic, husband, and computer scientist; 🎓 PhD in Data Science from the University of Edinburgh (SMASH group); MSc in Computer Science from the University of Oxford; 💻 Worked as a software engineer in start-ups; Applied Scientist for Amazon; Research Scientist for Huawei; and Principal Engineer for Samsung.</description>
     <pubDate>Fri, 29 Nov 2024 17:24:09 GMT</pubDate>
   </item>
