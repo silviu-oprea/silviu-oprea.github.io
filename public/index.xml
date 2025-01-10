@@ -6,6 +6,12 @@
       <description>Last 10 notes on AMDG</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>4 Bayesian Linear Regression</title>
+    <link>https://oprea.cc/Machine-Learning/4-Bayesian-Linear-Regression</link>
+    <guid>https://oprea.cc/Machine-Learning/4-Bayesian-Linear-Regression</guid>
+    <description>So far, given a training set T=\{ (\underline x^{(n)}, y^{(n)}) \}, we fitted linear functions of the form f(\underline x; \underline w) = \underline w^T\phi(\underline x), where ...</description>
+    <pubDate>Fri, 10 Jan 2025 13:18:02 GMT</pubDate>
+  </item><item>
     <title>2 Generalisation</title>
     <link>https://oprea.cc/Machine-Learning/2-Generalisation</link>
     <guid>https://oprea.cc/Machine-Learning/2-Generalisation</guid>
