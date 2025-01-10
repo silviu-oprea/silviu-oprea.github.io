@@ -6,5 +6,7 @@ If you find this content helpful, or have any constructive feedback, I would hig
 
 - [[1 Linear Regression]]
 - [[2 Generalisation]]
+- 3 Gradient-based Optimisation (coming soon ⏳)
+- [[4 Bayesian Linear Regression]]
 
 More coming soon ⏳
