@@ -15,15 +15,16 @@ Hi <u>friends</u>, I'm Silviu. [[Contact|Get in touch]]!<br/>
 💻 Worked as a software engineer in start-ups; Applied Scientist for Amazon; Research Scientist for Huawei; and Principal Engineer for Samsung. <br/>
 📚 Interested in Theology and Philosophy; and Artificial Intelligence.
 
-This page tells you what I've been doing.
-Would you like to check out my posts on [[Theology/0 Index|Theology and Philosophy]] (coming soon ⏳)? I am also working on tutorial on [[Machine Learning/0 Index|Machine Learning and Natural Language Processing]] that you might find helpful.
+> [!info] From the blog
+> - Posts on [[Theology/0 Index|Theology and philosophy]] (coming soon ⏳)
+> - A series of tutorials on [[Machine Learning/0 Index|machine learning and natural language processing]].
+> - [[Coding/0 Index|Coding interview]] problems and solutions.
 
 <img src="resources/silviu.jpeg" align="left" width=150 style="padding-right: 20px; margin: 0"/>
 
 My recent work has focused on the safety of AI agents.
 For instance, in a recent [paper](https://aclanthology.org/2024.emnlp-main.656/) (EMNLP 2024), we introduce a **parameter-efficient guardrailing method for large language models**.
 I am also interested in how safety standards are influenced by socio-demographic factors.
-
 Further interests in this direction include **training AI agents**, particularly in a way that maximises **multilingual performance** and avoids memorising **harmful biases**; and evaluating them, particularly on tasks where the correct output is a function of **socio-demographic factors** (such a task is commomnsense inference).
 
 ---
