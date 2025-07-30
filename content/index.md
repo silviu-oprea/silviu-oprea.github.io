@@ -19,7 +19,11 @@ Hi <u>friends</u>, I'm Silviu. [[Contact|Get in touch]]!<br/>
 
 I'm currently at JP Morgan working on <a href="https://www.jpmorgan.com/technology/news/llmsuite-ab-award" target="_blank" rel="noopener noreferrer">LLMSuite</a>.
 While at Samsung, we published a <a href="https://aclanthology.org/2024.emnlp-main.656/" target="_blank" rel="noopener noreferrer">paper</a> (EMNLP 2024) that introduces a parameter-efficient **guardrail** for LLMs.
-I am also very interested in questions related to **AI ethics**, what we mean by *intelligence*, and how the <a href="#" target="_blank" rel="noopener noreferrer">rational soul</a> makes humans categorically different from so-called **AGI**.<br/>
+I am also very interested in questions related to **AI ethics**, what we mean by *intelligence*, and how the rational soul (see
+<a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html" target="_blank" rel="noopener noreferrer">this</a>
+and
+<a href="https://www.dce.va/content/dam/dce/resources/en/digital-cultures/Encountering-AI---Ethical-and-Anthropological-Investigations.pdf" target="_blank" rel="noopener noreferrer">this</a>
+) makes humans categorically different from so-called **AGI**.<br/>
 Check out my [[#Publications|publications]] for further interests.
 
 <br/>
